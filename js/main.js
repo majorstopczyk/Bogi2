@@ -5,4 +5,3 @@ main.appendChild(divEl);
 
 const imgEl = document.createElement('img');
 imgEl.setAttribute('class', 'image');
-
